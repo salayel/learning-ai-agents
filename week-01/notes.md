@@ -1,13 +1,13 @@
 # Week 01 - Learning AI Agents
 
 ## Date
-[Add date range here]
-
+27/10 - 02/11
 ## Topics Covered
-- 
+- Understand how a RAG works
+- Understanding how embedded semantic search and implementing it in an agent
 
 ## Key Concepts
-- 
+- RAG 
 
 ## Code Examples
 ```python
